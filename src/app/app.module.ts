@@ -7,10 +7,12 @@ import { CoreModule } from './core/core.module';
 import { SharedModule } from './shared/shared.module';
 import { ContactModule } from './contact/contact.module';
 import { ScullyLibModule } from '@scullyio/ng-lib';
+import { PostsComponent } from './posts/posts.component';
 
 @NgModule({
   declarations: [
     AppComponent,
+    PostsComponent,
 
   ],
   imports: [

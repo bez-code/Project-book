@@ -1,0 +1,13 @@
+identifier: l7pc4b79c5i8gbr7
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-app
+homeFolder: /Users/behza/Desktop/Development/Angular/Angular Project Book/my-app
+distFolder: dist/my-app
+outDir: >-
+  /Users/behza/Desktop/Development/Angular/Angular Project
+  Book/my-app/dist/static
+handle404: ''
+allowErrorCollect: true
